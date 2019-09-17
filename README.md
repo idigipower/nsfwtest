@@ -1,6 +1,6 @@
 # nsfwtest
 
-# 可在线体验的NSFW
+# 可在线体验的NSFW检测工具
 
 阿里 https://promotion.aliyun.com/ntms/act/lvwangdemo.html <br>
 腾讯优图 https://open.youtu.qq.com/#/open/experience/porn  <br>
@@ -21,3 +21,4 @@ nanonets.com https://nanonets.com/content-moderation-api/ <br>
 
 # 不可在线体验
 Yahoo open_nsfw https://github.com/yahoo/open_nsfw <br>
+又拍云 https://www.upyun.com/products/audit <br>
